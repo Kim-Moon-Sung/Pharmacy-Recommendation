@@ -1,6 +1,6 @@
 package com.example.pharmacy.domain.repository
 
-import com.example.AbstractIntegrationContainerBaseTest
+import com.example.pharmacy.AbstractIntegrationContainerBaseTest
 import com.example.pharmacy.domain.entity.Pharmacy
 import org.springframework.beans.factory.annotation.Autowired
 

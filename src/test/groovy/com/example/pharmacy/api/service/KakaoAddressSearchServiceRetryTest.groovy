@@ -1,6 +1,6 @@
 package com.example.pharmacy.api.service
 
-import com.example.AbstractIntegrationContainerBaseTest
+import com.example.pharmacy.AbstractIntegrationContainerBaseTest
 import com.example.pharmacy.api.dto.DocumentDto
 import com.example.pharmacy.api.dto.KakaoApiResponseDto
 import com.example.pharmacy.api.dto.MetaDto

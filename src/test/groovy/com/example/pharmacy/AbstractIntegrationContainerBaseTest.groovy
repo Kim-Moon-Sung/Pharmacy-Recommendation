@@ -1,4 +1,4 @@
-package com.example
+package com.example.pharmacy
 
 import org.springframework.boot.test.context.SpringBootTest
 import org.testcontainers.containers.GenericContainer

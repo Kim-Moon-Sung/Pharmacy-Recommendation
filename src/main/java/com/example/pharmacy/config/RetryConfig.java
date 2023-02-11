@@ -8,9 +8,4 @@ import org.springframework.retry.support.RetryTemplate;
 @EnableRetry
 @Configuration
 public class RetryConfig {
-
-//    @Bean
-//    public RetryTemplate retryTemplate() {
-//        return new RetryTemplate();
-//    }
 }
